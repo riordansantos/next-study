@@ -1,2 +1,1 @@
-# next-study
-A repository to practice about nextjs's classes
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
